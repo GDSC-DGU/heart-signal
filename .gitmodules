@@ -1,0 +1,6 @@
+[submodule "heart-signal-server"]
+	path = heart-signal-server
+	url = https://github.com/GDSC-DGU/heart-signal-server.git
+[submodule "heart-signal-client"]
+	path = heart-signal-client
+	url = https://github.com/GDSC-DGU/heart-signal-client.git
